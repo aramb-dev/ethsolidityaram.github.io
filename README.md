@@ -1,5 +1,5 @@
-# Welcome to the Ethereum Solidty Coding with Aram Servces!<br>
-## To get started, we will go to <br>[Remix Ethereum EVM where we code Solidity.](remix.ethereuum.org)<br>
+# Welcome to the Ethereum Solidty Coding with Aram Servces!<br
+## To get started, we will go to <br>[Remix Ethereum EVM where we code Solidity.](remix.ethereum.org)<br>
 
 ### The contracts in the tutorials are available here for free:<br>
 ### *Right Click* the links below, and click *'Save link as'* to save the *.sol* file
